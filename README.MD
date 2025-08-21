@@ -1,11 +1,11 @@
 
 
-Project name & description (what it does).
+Project name & description: Course Project
 
-Installation instructions (how to set it up).
+Installation instructions: Use any browser
 
-Usage examples (how to run/use it).
+Usage examples : Open with browseR
 
-Dependencies (what libraries/tools are needed).
+Dependencies: None
 
-Contributors & license info.
+Contributors & license info: Conny Sibanda
